@@ -2,7 +2,7 @@
 ### SpringOne2GX 2014 Code/Links/Samples for Real World Spring Boot talk
 
 #### “Spring + Jersey” 
-* Gist: http://goo.gl/G63DJK
+* Simple Sample Gist: http://goo.gl/G63DJK
  
 #### HMS Online Spring Jersey: 
 https://github.com/hmsonline/dropwizard-spring
@@ -16,7 +16,7 @@ or my example:
 http://goo.gl/lrEOCI
  
 #### Spring Boot + Jersey:
-https://github.com/dsyer/spring-boot-jersey
+* https://github.com/dsyer/spring-boot-jersey
 
 * RESTful Web Service Spring Boot Starter Project: https://github.com/skate056/dev-tools/blob/master/starter-packs/restws-springboot/
 
